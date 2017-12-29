@@ -1,0 +1,8 @@
+{
+  "DBUrl": "mongodb://anksin:anksin@ds111469.mlab.com:11469/breadbutter",
+  "Admin": {
+    "username": "breadbutteradmin",
+    "email": "breadbutter@admin.com",
+    "password": "testpassword"
+  }
+}
